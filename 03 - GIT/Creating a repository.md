@@ -35,3 +35,17 @@ git add .
 git commit -m "<Your commit here>"
 git push -u origin master
 ```
+
+**Expected output:**
+```bash
+info: please complete authentication in your browser...
+...
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/<Your-Profile>/<Repo-Name>.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+```
+
+- After reloading the GitHub page you should be able to see al the files pushed to the Repository
+### Notes
+If is the first time pushing changes to GitHub, you may get a pop-up to log in with the browser, just click “login with browser” and that should be it
