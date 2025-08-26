@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("MM-DD-YYY") %>
+date: <% tp.date.now("MM-DD-YYYY") %>
 tags:
   - Daily
 cssclasses:
@@ -19,3 +19,7 @@ Customize this template to your liking!
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
+
+### References
+- Reference 1
+- Reference 2

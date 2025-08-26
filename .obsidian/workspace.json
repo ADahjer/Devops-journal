@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - GIT/Creating a repository.md",
+                "file": "98 - TEMPLATES/Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating a repository"
+              "title": "Daily"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - LINUX/Linux.md",
+                "file": "98 - TEMPLATES/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linux"
+              "title": "Backlinks for Daily"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - GIT/Creating a repository.md",
+                "file": "98 - TEMPLATES/Daily.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Creating a repository"
+              "title": "Outline of Daily"
             }
           },
           {
@@ -160,12 +160,12 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,18 +181,18 @@
   },
   "active": "c3e3ea677104cfd6",
   "lastOpenFiles": [
+    "98 - TEMPLATES/NEW_TOPIC.md",
+    "Daily/08-26-2025 Daily Journal.md",
     "README.md",
-    "03 - GIT/README.md",
-    "01 - LINUX/README.md",
-    "01 - LINUX/Linux.md",
+    "98 - TEMPLATES/Daily.md",
     "03 - GIT/Creating a repository.md",
     "03 - GIT/Commands.md",
     "03 - GIT/Git.md",
+    "03 - GIT/README.md",
+    "01 - LINUX/README.md",
+    "01 - LINUX/Linux.md",
     "Nuevo Archivo",
-    "Daily/08-26-2025 Daily Journal.md",
-    "98 - TEMPLATES/NEW_TOPIC.md",
     "03 - GIT/03 - GIT.md",
-    "98 - TEMPLATES/Daily.md",
     "Daily/08-23-2025 Daily Journal.md",
     "Daily/UntitledUntitled.md",
     "98 - TEMPLATES/DAILY.md",

@@ -17,4 +17,10 @@
 ## 📌 Repository Management
 - `git clone <url>` → clone a remote repository  
 - `git remote -v` → list remote connections  
-- `git remote add origin <url>` → add a remote repo  
+- `git remote add origin <url>` → add a remote repo
+
+### References
+- [[Creating a repository|Creating a Git Repository]]
+- [[08-26-2025 Daily Journal]]
+
+***
