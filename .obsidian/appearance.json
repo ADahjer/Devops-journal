@@ -1,0 +1,10 @@
+{
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "enabledCssSnippets": [
+    "ColoredSidebar",
+    "GeneralTweaks",
+    "DailyNotes"
+  ],
+  "cssTheme": "Obsidianite"
+}
