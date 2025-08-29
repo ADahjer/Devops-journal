@@ -28,8 +28,8 @@ git config --global user.email "myemail@example.com"
 - [x] Configure user identity
 - [x] Create local repo
 - [x] Push repo to GitHub
-- [ ] Review basic Git commands tomorrow
+- [x] Review basic Git commands tomorrow
 
-### References
+### Related Notes
 - [[Commands|Git Commands]]
 - [[Creating a repository|Creating a Git Repository]]

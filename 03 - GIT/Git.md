@@ -33,7 +33,6 @@ git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 ```
 
-
-
-## Notes
-Any quick notes, commands, or reminders I want to keep handy.
+## Related Notes
+- [[Creating a repository|Create a Git Repository]]
+- [[Commands|Git Commands]]

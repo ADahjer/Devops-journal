@@ -11,7 +11,7 @@ cssclasses:
 ## <% tp.date.now("dddd, MMMM Do, YYYY") %>
 ***
 ### Journal
-#### Time
+
 Customize this template to your liking!
 ...
 ***
@@ -20,6 +20,6 @@ Customize this template to your liking!
 - [ ] Task 2
 - [ ] Task 3
 
-### References
+### Related Notes
 - Reference 1
 - Reference 2

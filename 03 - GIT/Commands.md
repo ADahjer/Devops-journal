@@ -19,7 +19,7 @@
 - `git remote -v` → list remote connections  
 - `git remote add origin <url>` → add a remote repo
 
-### References
+### Related Notes
 - [[Creating a repository|Creating a Git Repository]]
 - [[08-26-2025 Daily Journal]]
 

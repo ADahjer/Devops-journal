@@ -20,9 +20,3 @@ It is open source and can be used in multiple distributions (Ubuntu, Debian, Arc
 ## Resources
 - [News and tutorials](https://www.linux.com/)
 - [Useful Tutorial](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
-
-## Setup or first steps
-A step by step guide on how to get the new tool ready to use.
-
-## Notes
-Any quick notes, commands, or reminders I want to keep handy.

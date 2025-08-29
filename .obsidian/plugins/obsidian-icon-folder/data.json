@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasDesktop",
       "FabGitAlt",
       "LiBadgeInfo",
       "FasCircleInfo",
-      "LiInfo",
-      "FasInfo"
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,6 @@
   },
   "00 - GENERAL": "FasCircleInfo",
   "03 - GIT": "FabGitAlt",
-  "01 - LINUX": "FabLinux"
+  "01 - LINUX": "FabLinux",
+  "01 - LINUX/Arch": "FasDesktop"
 }
