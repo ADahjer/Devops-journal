@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/08-28-2025 Daily Journal.md",
+                "file": "01 - LINUX/Arch/installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-28-2025 Daily Journal"
+              "title": "installation"
             }
           }
         ]
@@ -179,10 +179,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49a6d8725217c7b8",
+  "active": "57bc62b5319256f6",
   "lastOpenFiles": [
-    "01 - LINUX/Arch/intalation.md",
+    "98 - META/IMAGES/arch_instalation/GRUB.png",
+    "98 - META/IMAGES/arch_instalation",
+    "98 - META/IMAGES/arch_instalation/command_mkfs.png",
+    "98 - META/IMAGES/arch_instalation/command_lsblk_partition.png",
+    "98 - META/IMAGES/arch_instalation/arch_partition.png",
+    "98 - META/IMAGES/arch_instalation/command_lsblk.png",
+    "01 - LINUX/Arch/installation.md",
+    "Pasted image 20250901123059.png",
+    "98 - META/IMAGES/arch_instalation/arch_terminal.png",
+    "98 - META/IMAGES",
+    "98 - META/TEMPLATES",
+    "Untitled",
+    "Pasted image 20250901113105.png",
+    "00 - GENERAL/Roadmap.md",
     "Daily/08-28-2025 Daily Journal.md",
+    "01 - LINUX/Arch/intalation.md",
     "01 - LINUX/Arch/pacman.md",
     "01 - LINUX/Arch",
     "01 - LINUX/Linux.md",
@@ -193,8 +207,8 @@
     "01 - LINUX/README.md",
     "Daily/08-26-2025 Daily Journal.md",
     "README.md",
-    "98 - TEMPLATES/Daily.md",
-    "98 - TEMPLATES/NEW_TOPIC.md",
+    "98 - META/TEMPLATES/Daily.md",
+    "98 - META/TEMPLATES/NEW_TOPIC.md",
     "Nuevo Archivo",
     "03 - GIT/03 - GIT.md",
     "Daily/08-23-2025 Daily Journal.md",
@@ -203,15 +217,10 @@
     "Daily",
     "00 - GENERAL/README.md",
     "00 - GENERAL/Tips.md",
-    "00 - GENERAL/Roadmap.md",
     "03 - GIT",
     "01 - LINUX",
     "Untitled.md",
     "99 - PROJECTS",
-    "98 - TEMPLATES",
-    "Welcome.md",
-    "00 - GENERAL",
-    "$Temp/Trash",
-    "$Temp"
+    "Welcome.md"
   ]
 }
